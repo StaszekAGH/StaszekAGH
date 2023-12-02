@@ -6,5 +6,5 @@ In my free time, I like to engage in various sports ⚽🥎🏐 and listen to mu
 [Stanisław Wojtas](https://staszekagh.github.io/)
 
 # Linki do forka
-[Link do repozytorium](https://github.com/StaszekAGH/diffusers)
+[Link do repozytorium](https://github.com/huggingface/diffusers)
 [Link do strony artukułu](https://paperswithcode.com/paper/improving-sample-quality-of-diffusion-model)
